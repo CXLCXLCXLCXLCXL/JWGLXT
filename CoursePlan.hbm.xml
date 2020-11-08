@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 2019-11-13 23:59:38 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+  <class catalog="education" name="com.qdu.pojo.CoursePlan" optimistic-lock="version" table="courseplan">
+    <id name="id" type="integer">
+      <column name="id"/>
+      <generator class="native"/>
+    </id>
+    <property name="courseid" type="string">
+      <column length="4" name="courseid"/>
+    </property>
+    <property name="batch" type="string">
+      <column length="30" name="batch"/>
+    </property>
+    <property name="teacherid" type="string">
+      <column length="12" name="teacherid"/>
+    </property>
+    <property name="week" type="string">
+      <column length="12" name="week"/>
+    </property>
+    <property name="count" type="java.lang.Integer">
+      <column name="count"/>
+    </property>
+    <property name="classroomType" type="string">
+      <column length="9" name="classroomType"/>
+    </property>
+  </class>
+</hibernate-mapping>
