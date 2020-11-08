@@ -1,0 +1,487 @@
+[2018/8/8 18:30:12] AccelBall Start 
+[2018/8/8 18:30:12] IsXiaoXinPC   : True
+[2018/8/8 18:30:12] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/8 18:30:12] BigData-> clickEvent :SB011
+[2018/8/8 18:30:12] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/8 18:30:12] BigData-> clickEvent :SB012
+[2018/8/8 19:01:16] BigData-> businessEvent :SB002
+[2018/8/8 19:11:20] App_Deactivated
+[2018/8/8 19:32:17] BigData-> businessEvent :SB002
+[2018/8/8 19:54:19] App_Deactivated
+[2018/8/9 14:02:29] AccelBall Start 
+[2018/8/9 14:02:29] IsXiaoXinPC   : True
+[2018/8/9 14:02:29] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/9 14:02:29] BigData-> clickEvent :SB011
+[2018/8/9 14:02:29] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/9 14:02:29] BigData-> clickEvent :SB012
+[2018/8/9 14:08:21] GetGameNoDisStatus :False
+[2018/8/9 14:08:21]  GridWing.Visibility : Visible
+[2018/8/9 14:08:26] BigData-> clickEvent :SB013
+[2018/8/9 14:08:26] UnInitGameZone : True
+[2018/8/9 14:08:26] BigData-> clickEvent :SB020
+[2018/8/9 14:08:27] SetOCStatus(False) :False
+[2018/8/9 14:08:27] App_Deactivated
+[2018/8/10 15:03:56] AccelBall Start 
+[2018/8/10 15:03:56] IsXiaoXinPC   : True
+[2018/8/10 15:03:56] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/10 15:03:56] BigData-> clickEvent :SB011
+[2018/8/10 15:03:56] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/10 15:03:56] BigData-> clickEvent :SB012
+[2018/8/10 15:04:07] GetGameNoDisStatus :False
+[2018/8/10 15:04:09] BigData-> clickEvent :SB013
+[2018/8/10 15:04:09] BigData-> clickEvent :SB020
+[2018/8/10 15:04:09] UnInitGameZone : True
+[2018/8/10 15:04:09] SetOCStatus(False) :False
+[2018/8/10 15:04:09] App_Deactivated
+[2018/8/11 13:52:33] AccelBall Start 
+[2018/8/11 13:52:33] IsXiaoXinPC   : True
+[2018/8/11 13:52:33] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/11 13:52:33] BigData-> clickEvent :SB011
+[2018/8/11 13:52:33] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/11 13:52:33] BigData-> clickEvent :SB012
+[2018/8/11 13:52:38] ClearMemory
+[2018/8/11 13:52:40] App_Deactivated
+[2018/8/11 13:52:44] GetGameNoDisStatus :False
+[2018/8/11 13:52:45] BigData-> clickEvent :SB013
+[2018/8/11 13:52:45] BigData-> clickEvent :SB020
+[2018/8/11 13:52:45] SetOCStatus(False) :False
+[2018/8/11 13:52:45] App_Deactivated
+[2018/8/17 12:12:41] AccelBall Start 
+[2018/8/17 12:12:41] IsXiaoXinPC   : True
+[2018/8/17 12:12:41] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/17 12:12:41] BigData-> clickEvent :SB011
+[2018/8/17 12:12:41] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/17 12:12:41] BigData-> clickEvent :SB012
+[2018/8/17 12:12:54] App_Deactivated
+[2018/8/17 14:04:27] AccelBall Start 
+[2018/8/17 14:04:27] IsXiaoXinPC   : True
+[2018/8/17 14:04:27] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/17 14:04:27] BigData-> clickEvent :SB011
+[2018/8/17 14:04:27] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/17 14:04:27] BigData-> clickEvent :SB012
+[2018/8/17 14:17:55] AccelBall Start 
+[2018/8/17 14:17:55] IsXiaoXinPC   : True
+[2018/8/17 14:17:56] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/17 14:17:56] BigData-> clickEvent :SB011
+[2018/8/17 14:17:56] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/17 14:17:56] BigData-> clickEvent :SB012
+[2018/8/17 14:48:50] BigData-> businessEvent :SB002
+[2018/8/17 15:04:56] App_Deactivated
+[2018/8/17 15:19:33] BigData-> businessEvent :SB002
+[2018/8/17 15:50:10] BigData-> businessEvent :SB002
+[2018/8/18 19:02:13] AccelBall Start 
+[2018/8/18 19:02:13] IsXiaoXinPC   : True
+[2018/8/18 19:02:13] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/18 19:02:13] BigData-> clickEvent :SB011
+[2018/8/18 19:02:13] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/18 19:02:13] BigData-> clickEvent :SB012
+[2018/8/18 19:04:40] GetGameNoDisStatus :False
+[2018/8/18 19:04:41] BigData-> clickEvent :SB013
+[2018/8/18 19:04:41] BigData-> clickEvent :SB020
+[2018/8/18 19:04:41] SetOCStatus(False) :False
+[2018/8/18 19:04:41] App_Deactivated
+[2018/8/19 20:02:38] AccelBall Start 
+[2018/8/19 20:02:38] IsXiaoXinPC   : True
+[2018/8/19 20:02:38] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/19 20:02:38] BigData-> clickEvent :SB011
+[2018/8/19 20:02:38] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/19 20:02:38] BigData-> clickEvent :SB012
+[2018/8/19 20:04:58] GetGameNoDisStatus :False
+[2018/8/19 20:04:59]  GridWing.Visibility : Visible
+[2018/8/19 20:05:00] App_Deactivated
+[2018/8/19 20:05:00] GetGameNoDisStatus :False
+[2018/8/19 20:05:02] BigData-> clickEvent :SB013
+[2018/8/19 20:05:02] App_Deactivated
+[2018/8/19 20:05:02] BigData-> clickEvent :SB020
+[2018/8/19 20:05:02] SetOCStatus(False) :False
+[2018/8/20 8:04:26] AccelBall Start 
+[2018/8/20 8:04:26] IsXiaoXinPC   : True
+[2018/8/20 8:04:26] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/20 8:04:26] BigData-> clickEvent :SB011
+[2018/8/20 8:04:26] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/20 8:04:26] BigData-> clickEvent :SB012
+[2018/8/20 8:04:31] GetGameNoDisStatus :False
+[2018/8/20 8:04:33] BigData-> clickEvent :SB013
+[2018/8/20 8:04:33] BigData-> clickEvent :SB020
+[2018/8/20 8:04:33] UnInitGameZone : True
+[2018/8/20 8:04:33] SetOCStatus(False) :False
+[2018/8/20 8:04:33] App_Deactivated
+[2018/8/20 9:42:04] AccelBall Start 
+[2018/8/20 9:42:04] IsXiaoXinPC   : True
+[2018/8/20 9:42:04] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/20 9:42:04] BigData-> clickEvent :SB011
+[2018/8/20 9:42:04] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/20 9:42:04] BigData-> clickEvent :SB012
+[2018/8/20 9:42:12] App_Deactivated
+[2018/8/20 9:45:39] GetGameNoDisStatus :False
+[2018/8/20 9:45:40] BigData-> clickEvent :SB013
+[2018/8/20 9:45:40] BigData-> clickEvent :SB020
+[2018/8/20 9:45:40] UnInitGameZone : True
+[2018/8/20 9:45:40] SetOCStatus(False) :False
+[2018/8/20 9:45:40] App_Deactivated
+[2018/8/20 13:16:52] AccelBall Start 
+[2018/8/20 13:16:52] IsXiaoXinPC   : True
+[2018/8/20 13:16:52] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/20 13:16:52] BigData-> clickEvent :SB011
+[2018/8/20 13:16:52] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/20 13:16:52] BigData-> clickEvent :SB012
+[2018/8/20 13:17:03] GetGameNoDisStatus :False
+[2018/8/20 13:17:05] BigData-> clickEvent :SB013
+[2018/8/20 13:17:05] BigData-> clickEvent :SB020
+[2018/8/20 13:17:05] UnInitGameZone : True
+[2018/8/20 13:17:05] SetOCStatus(False) :False
+[2018/8/20 13:17:05] App_Deactivated
+[2018/8/20 19:56:18] AccelBall Start 
+[2018/8/20 19:56:18] IsXiaoXinPC   : True
+[2018/8/20 19:56:19] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/20 19:56:19] BigData-> clickEvent :SB011
+[2018/8/20 19:56:19] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/20 19:56:19] BigData-> clickEvent :SB012
+[2018/8/20 19:56:26] App_Deactivated
+[2018/8/20 19:56:28] App_Deactivated
+[2018/8/20 19:56:34] GetGameNoDisStatus :False
+[2018/8/20 19:56:35] BigData-> clickEvent :SB013
+[2018/8/20 19:56:35] BigData-> clickEvent :SB020
+[2018/8/20 19:56:35] UnInitGameZone : True
+[2018/8/20 19:56:35] SetOCStatus(False) :False
+[2018/8/20 19:56:35] App_Deactivated
+[2018/8/21 7:54:15] AccelBall Start 
+[2018/8/21 7:54:15] IsXiaoXinPC   : True
+[2018/8/21 7:54:16] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/21 7:54:16] BigData-> clickEvent :SB011
+[2018/8/21 7:54:16] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/21 7:54:16] BigData-> clickEvent :SB012
+[2018/8/21 7:54:43] GetGameNoDisStatus :False
+[2018/8/21 7:54:45] BigData-> clickEvent :SB013
+[2018/8/21 7:54:45] BigData-> clickEvent :SB020
+[2018/8/21 7:54:45] UnInitGameZone : True
+[2018/8/21 7:54:45] SetOCStatus(False) :False
+[2018/8/21 7:54:45] App_Deactivated
+[2018/8/21 12:39:55] AccelBall Start 
+[2018/8/21 12:39:55] IsXiaoXinPC   : True
+[2018/8/21 12:39:55] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/21 12:39:55] BigData-> clickEvent :SB011
+[2018/8/21 12:39:55] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/21 12:39:55] BigData-> clickEvent :SB012
+[2018/8/21 12:41:11] App_Deactivated
+[2018/8/21 12:42:19] App_Deactivated
+[2018/8/21 12:42:55] GetGameNoDisStatus :False
+[2018/8/21 12:42:57] BigData-> clickEvent :SB013
+[2018/8/21 12:42:57] BigData-> clickEvent :SB020
+[2018/8/21 12:42:57] UnInitGameZone : True
+[2018/8/21 12:42:57] SetOCStatus(False) :False
+[2018/8/21 12:42:57] App_Deactivated
+[2018/8/21 21:12:43] AccelBall Start 
+[2018/8/21 21:12:43] IsXiaoXinPC   : True
+[2018/8/21 21:12:44] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/21 21:12:44] BigData-> clickEvent :SB011
+[2018/8/21 21:12:44] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/21 21:12:44] BigData-> clickEvent :SB012
+[2018/8/21 21:25:41] GetGameNoDisStatus :False
+[2018/8/21 21:25:43] BigData-> clickEvent :SB013
+[2018/8/21 21:25:43] BigData-> clickEvent :SB020
+[2018/8/21 21:25:43] UnInitGameZone : True
+[2018/8/21 21:25:43] SetOCStatus(False) :False
+[2018/8/21 21:25:43] App_Deactivated
+[2018/8/22 8:09:16] AccelBall Start 
+[2018/8/22 8:09:16] IsXiaoXinPC   : True
+[2018/8/22 8:09:16] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/22 8:09:16] BigData-> clickEvent :SB011
+[2018/8/22 8:09:16] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/22 8:09:16] BigData-> clickEvent :SB012
+[2018/8/22 8:09:37] GetGameNoDisStatus :False
+[2018/8/22 8:09:38] BigData-> clickEvent :SB013
+[2018/8/22 8:09:38] BigData-> clickEvent :SB020
+[2018/8/22 8:09:38] UnInitGameZone : True
+[2018/8/22 8:09:38] SetOCStatus(False) :False
+[2018/8/22 8:09:39] App_Deactivated
+[2018/8/22 12:45:48] AccelBall Start 
+[2018/8/22 12:45:48] IsXiaoXinPC   : True
+[2018/8/22 12:45:48] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/22 12:45:48] BigData-> clickEvent :SB011
+[2018/8/22 12:45:48] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/22 12:45:48] BigData-> clickEvent :SB012
+[2018/8/22 12:48:13] App_Deactivated
+[2018/8/22 12:51:12] GetGameNoDisStatus :False
+[2018/8/22 12:51:13] BigData-> clickEvent :SB013
+[2018/8/22 12:51:14] BigData-> clickEvent :SB020
+[2018/8/22 12:51:14] UnInitGameZone : True
+[2018/8/22 12:51:14] SetOCStatus(False) :False
+[2018/8/22 12:51:14] App_Deactivated
+[2018/8/22 19:13:18] AccelBall Start 
+[2018/8/22 19:13:18] IsXiaoXinPC   : True
+[2018/8/22 19:13:18] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/22 19:13:18] BigData-> clickEvent :SB011
+[2018/8/22 19:13:18] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/22 19:13:18] BigData-> clickEvent :SB012
+[2018/8/22 19:20:44] App_Deactivated
+[2018/8/22 19:21:02] GetGameNoDisStatus :False
+[2018/8/22 19:21:04] BigData-> clickEvent :SB013
+[2018/8/22 19:21:04] BigData-> clickEvent :SB020
+[2018/8/22 19:21:04] UnInitGameZone : True
+[2018/8/22 19:21:04] SetOCStatus(False) :False
+[2018/8/22 19:21:04] App_Deactivated
+[2018/8/23 8:05:24] AccelBall Start 
+[2018/8/23 8:05:24] IsXiaoXinPC   : True
+[2018/8/23 8:05:24] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/23 8:05:24] BigData-> clickEvent :SB011
+[2018/8/23 8:05:24] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/23 8:05:24] BigData-> clickEvent :SB012
+[2018/8/23 8:11:08] GetGameNoDisStatus :False
+[2018/8/23 8:11:09] BigData-> clickEvent :SB013
+[2018/8/23 8:11:09] BigData-> clickEvent :SB020
+[2018/8/23 8:11:09] UnInitGameZone : True
+[2018/8/23 8:11:09] SetOCStatus(False) :False
+[2018/8/23 8:11:10] App_Deactivated
+[2018/8/23 12:37:46] AccelBall Start 
+[2018/8/23 12:37:46] IsXiaoXinPC   : True
+[2018/8/23 12:37:46] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/23 12:37:46] BigData-> clickEvent :SB011
+[2018/8/23 12:37:46] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/23 12:37:46] BigData-> clickEvent :SB012
+[2018/8/23 12:38:33] GetGameNoDisStatus :False
+[2018/8/23 12:38:35] BigData-> clickEvent :SB013
+[2018/8/23 12:38:35] BigData-> clickEvent :SB020
+[2018/8/23 12:38:35] UnInitGameZone : True
+[2018/8/23 12:38:35] SetOCStatus(False) :False
+[2018/8/23 12:38:35] App_Deactivated
+[2018/8/23 14:31:52] AccelBall Start 
+[2018/8/23 14:31:52] IsXiaoXinPC   : True
+[2018/8/23 14:31:54] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/23 14:31:54] BigData-> clickEvent :SB011
+[2018/8/23 14:31:54] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/23 14:31:54] BigData-> clickEvent :SB012
+[2018/8/23 15:02:49] BigData-> businessEvent :SB002
+[2018/8/23 15:33:46] BigData-> businessEvent :SB002
+[2018/8/23 16:04:44] BigData-> businessEvent :SB002
+[2018/8/23 16:35:42] BigData-> businessEvent :SB002
+[2018/8/23 17:06:37] BigData-> businessEvent :SB002
+[2018/8/23 17:37:35] BigData-> businessEvent :SB002
+[2018/8/23 18:08:32] BigData-> businessEvent :SB002
+[2018/8/23 18:39:29] BigData-> businessEvent :SB002
+[2018/8/23 18:47:29] GetGameNoDisStatus :False
+[2018/8/23 18:47:29] App_Deactivated
+[2018/8/23 18:47:29] GetGameNoDisStatus :False
+[2018/8/23 18:47:30] BigData-> clickEvent :SB013
+[2018/8/23 18:47:30] App_Deactivated
+[2018/8/23 18:47:30] BigData-> clickEvent :SB020
+[2018/8/23 18:47:30] UnInitGameZone : True
+[2018/8/23 18:47:30] SetOCStatus(False) :False
+[2018/8/24 15:08:40] AccelBall Start 
+[2018/8/24 15:08:40] IsXiaoXinPC   : True
+[2018/8/24 15:08:40] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/24 15:08:40] BigData-> clickEvent :SB011
+[2018/8/24 15:08:40] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/24 15:08:40] BigData-> clickEvent :SB012
+[2018/8/24 15:11:12] App_Deactivated
+[2018/8/24 15:11:36] GetGameNoDisStatus :False
+[2018/8/24 15:11:38] BigData-> clickEvent :SB013
+[2018/8/24 15:11:38] UnInitGameZone : True
+[2018/8/24 15:11:38] SetOCStatus(False) :False
+[2018/8/24 15:11:38] App_Deactivated
+[2018/8/24 19:28:04] AccelBall Start 
+[2018/8/24 19:28:04] IsXiaoXinPC   : True
+[2018/8/24 19:28:04] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/24 19:28:04] BigData-> clickEvent :SB011
+[2018/8/24 19:28:04] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/24 19:28:04] BigData-> clickEvent :SB012
+[2018/8/24 19:28:08] GetGameNoDisStatus :False
+[2018/8/24 19:28:09] BigData-> clickEvent :SB013
+[2018/8/24 19:28:09] BigData-> clickEvent :SB020
+[2018/8/24 19:28:09] UnInitGameZone : True
+[2018/8/24 19:28:09] SetOCStatus(False) :False
+[2018/8/24 19:28:09] App_Deactivated
+[2018/8/25 18:53:39] AccelBall Start 
+[2018/8/25 18:53:39] IsXiaoXinPC   : True
+[2018/8/25 18:53:39] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/25 18:53:39] BigData-> clickEvent :SB011
+[2018/8/25 18:53:39] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/25 18:53:39] BigData-> clickEvent :SB012
+[2018/8/25 19:01:30] App_Deactivated
+[2018/8/25 19:02:53] GetGameNoDisStatus :False
+[2018/8/25 19:02:54] BigData-> clickEvent :SB013
+[2018/8/25 19:02:54] BigData-> clickEvent :SB020
+[2018/8/25 19:02:54] UnInitGameZone : True
+[2018/8/25 19:02:54] SetOCStatus(False) :False
+[2018/8/25 19:02:54] App_Deactivated
+[2018/8/26 17:57:27] AccelBall Start 
+[2018/8/26 17:57:27] IsXiaoXinPC   : True
+[2018/8/26 17:57:27] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/26 17:57:27] BigData-> clickEvent :SB011
+[2018/8/26 17:57:27] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/26 17:57:27] BigData-> clickEvent :SB012
+[2018/8/26 17:57:34] App_Deactivated
+[2018/8/26 17:59:31] App_Deactivated
+[2018/8/26 20:55:29] AccelBall Start 
+[2018/8/26 20:55:29] IsXiaoXinPC   : True
+[2018/8/26 20:55:29] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/26 20:55:29] BigData-> clickEvent :SB011
+[2018/8/26 20:55:29] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/26 20:55:29] BigData-> clickEvent :SB012
+[2018/8/26 21:00:05] GetGameNoDisStatus :False
+[2018/8/26 21:00:07] BigData-> clickEvent :SB013
+[2018/8/26 21:00:07] BigData-> clickEvent :SB020
+[2018/8/26 21:00:07] UnInitGameZone : True
+[2018/8/26 21:00:07] SetOCStatus(False) :False
+[2018/8/26 21:00:07] App_Deactivated
+[2018/8/27 8:05:27] AccelBall Start 
+[2018/8/27 8:05:27] IsXiaoXinPC   : True
+[2018/8/27 8:05:27] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/27 8:05:27] BigData-> clickEvent :SB011
+[2018/8/27 8:05:27] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/27 8:05:27] BigData-> clickEvent :SB012
+[2018/8/27 8:08:00] ClearMemory
+[2018/8/27 8:08:00] GetGameNoDisStatus :False
+[2018/8/27 8:08:02] BigData-> clickEvent :SB013
+[2018/8/27 8:08:02] BigData-> clickEvent :SB020
+[2018/8/27 8:08:02] UnInitGameZone : True
+[2018/8/27 8:08:02] SetOCStatus(False) :False
+[2018/8/27 8:08:02] App_Deactivated
+[2018/8/27 20:20:03] AccelBall Start 
+[2018/8/27 20:20:03] IsXiaoXinPC   : True
+[2018/8/27 20:20:03] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/27 20:20:03] BigData-> clickEvent :SB011
+[2018/8/27 20:20:03] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/27 20:20:03] BigData-> clickEvent :SB012
+[2018/8/27 20:30:12] GetGameNoDisStatus :False
+[2018/8/27 20:30:13] BigData-> clickEvent :SB013
+[2018/8/27 20:30:13] BigData-> clickEvent :SB020
+[2018/8/27 20:30:13] UnInitGameZone : True
+[2018/8/27 20:30:13] SetOCStatus(False) :False
+[2018/8/27 20:30:14] App_Deactivated
+[2018/8/28 8:06:37] AccelBall Start 
+[2018/8/28 8:06:37] IsXiaoXinPC   : True
+[2018/8/28 8:06:37] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/28 8:06:37] BigData-> clickEvent :SB011
+[2018/8/28 8:06:37] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/28 8:06:37] BigData-> clickEvent :SB012
+[2018/8/28 8:07:45] GetGameNoDisStatus :False
+[2018/8/28 8:07:46] BigData-> clickEvent :SB013
+[2018/8/28 8:07:46] BigData-> clickEvent :SB020
+[2018/8/28 8:07:46] UnInitGameZone : True
+[2018/8/28 8:07:46] SetOCStatus(False) :False
+[2018/8/28 8:07:47] App_Deactivated
+[2018/8/28 12:35:26] AccelBall Start 
+[2018/8/28 12:35:26] IsXiaoXinPC   : True
+[2018/8/28 12:35:26] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/28 12:35:26] BigData-> clickEvent :SB011
+[2018/8/28 12:35:26] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/28 12:35:26] BigData-> clickEvent :SB012
+[2018/8/28 12:38:45] GetGameNoDisStatus :False
+[2018/8/28 12:38:47] BigData-> clickEvent :SB013
+[2018/8/28 12:38:47] BigData-> clickEvent :SB020
+[2018/8/28 12:38:47] UnInitGameZone : True
+[2018/8/28 12:38:47] SetOCStatus(False) :False
+[2018/8/28 12:38:47] App_Deactivated
+[2018/8/29 8:04:13] AccelBall Start 
+[2018/8/29 8:04:13] IsXiaoXinPC   : True
+[2018/8/29 8:04:13] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/29 8:04:13] BigData-> clickEvent :SB011
+[2018/8/29 8:04:13] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/29 8:04:13] BigData-> clickEvent :SB012
+[2018/8/29 8:04:18] GetGameNoDisStatus :False
+[2018/8/29 8:04:20] BigData-> clickEvent :SB013
+[2018/8/29 8:04:20] BigData-> clickEvent :SB020
+[2018/8/29 8:04:20] UnInitGameZone : True
+[2018/8/29 8:04:20] SetOCStatus(False) :False
+[2018/8/29 8:04:20] App_Deactivated
+[2018/8/29 12:29:08] AccelBall Start 
+[2018/8/29 12:29:08] IsXiaoXinPC   : True
+[2018/8/29 12:29:08] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/29 12:29:08] BigData-> clickEvent :SB011
+[2018/8/29 12:29:08] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/29 12:29:08] BigData-> clickEvent :SB012
+[2018/8/29 12:29:13] GetGameNoDisStatus :False
+[2018/8/29 12:29:14] BigData-> clickEvent :SB013
+[2018/8/29 12:29:14] BigData-> clickEvent :SB020
+[2018/8/29 12:29:14] UnInitGameZone : True
+[2018/8/29 12:29:14] SetOCStatus(False) :False
+[2018/8/29 12:29:14] App_Deactivated
+[2018/8/30 8:01:34] AccelBall Start 
+[2018/8/30 8:01:34] IsXiaoXinPC   : True
+[2018/8/30 8:01:34] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/30 8:01:34] BigData-> clickEvent :SB011
+[2018/8/30 8:01:34] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/30 8:01:34] BigData-> clickEvent :SB012
+[2018/8/30 8:01:38] GetGameNoDisStatus :False
+[2018/8/30 8:01:39] BigData-> clickEvent :SB013
+[2018/8/30 8:01:39] UnInitGameZone : True
+[2018/8/30 8:01:39] BigData-> clickEvent :SB020
+[2018/8/30 8:01:39] SetOCStatus(False) :False
+[2018/8/30 8:01:39] App_Deactivated
+[2018/8/30 10:04:57] AccelBall Start 
+[2018/8/30 10:04:57] IsXiaoXinPC   : True
+[2018/8/30 10:04:57] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/30 10:04:57] BigData-> clickEvent :SB011
+[2018/8/30 10:04:57] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/30 10:04:57] BigData-> clickEvent :SB012
+[2018/8/30 10:05:09] App_Deactivated
+[2018/8/30 10:08:12] GetGameNoDisStatus :False
+[2018/8/30 10:08:14] BigData-> clickEvent :SB013
+[2018/8/30 10:08:14] BigData-> clickEvent :SB020
+[2018/8/30 10:08:14] UnInitGameZone : True
+[2018/8/30 10:08:14] SetOCStatus(False) :False
+[2018/8/30 10:08:14] App_Deactivated
+[2018/8/31 18:17:49] AccelBall Start 
+[2018/8/31 18:17:49] IsXiaoXinPC   : True
+[2018/8/31 18:17:49] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/8/31 18:17:49] BigData-> clickEvent :SB011
+[2018/8/31 18:17:49] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/8/31 18:17:49] BigData-> clickEvent :SB012
+[2018/8/31 18:17:54] GetGameNoDisStatus :False
+[2018/8/31 18:17:55] BigData-> clickEvent :SB013
+[2018/8/31 18:17:55] BigData-> clickEvent :SB020
+[2018/8/31 18:17:55] UnInitGameZone : True
+[2018/8/31 18:17:55] SetOCStatus(False) :False
+[2018/8/31 18:17:55] App_Deactivated
+[2018/9/1 20:53:36] AccelBall Start 
+[2018/9/1 20:53:36] IsXiaoXinPC   : True
+[2018/9/1 20:53:36] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/1 20:53:36] BigData-> clickEvent :SB011
+[2018/9/1 20:53:36] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/9/1 20:53:36] BigData-> clickEvent :SB012
+[2018/9/1 20:54:00] ClearMemory
+[2018/9/1 20:54:05] GetGameNoDisStatus :False
+[2018/9/1 20:54:06] BigData-> clickEvent :SB013
+[2018/9/1 20:54:06] BigData-> clickEvent :SB020
+[2018/9/1 20:54:06] UnInitGameZone : True
+[2018/9/1 20:54:06] SetOCStatus(False) :False
+[2018/9/1 20:54:06] App_Deactivated
+[2018/9/2 20:50:29] AccelBall Start 
+[2018/9/2 20:50:29] IsXiaoXinPC   : True
+[2018/9/2 20:50:29] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/2 20:50:29] BigData-> clickEvent :SB011
+[2018/9/2 20:50:29] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/9/2 20:50:29] BigData-> clickEvent :SB012
+[2018/9/2 20:50:42] App_Deactivated
+[2018/9/2 20:51:14] GetGameNoDisStatus :False
+[2018/9/2 20:51:15] BigData-> clickEvent :SB013
+[2018/9/2 20:51:15] BigData-> clickEvent :SB020
+[2018/9/2 20:51:15] UnInitGameZone : True
+[2018/9/2 20:51:15] SetOCStatus(False) :False
+[2018/9/2 20:51:15] App_Deactivated
+[2018/9/3 10:54:40] AccelBall Start 
+[2018/9/3 10:54:40] IsXiaoXinPC   : True
+[2018/9/3 10:54:40] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/3 10:54:40] BigData-> clickEvent :SB011
+[2018/9/3 10:54:40] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/9/3 10:54:40] BigData-> clickEvent :SB012
+[2018/9/3 10:54:47] App_Deactivated
+[2018/9/3 10:55:58] GetGameNoDisStatus :False
+[2018/9/3 10:55:59] BigData-> clickEvent :SB013
+[2018/9/3 10:55:59] BigData-> clickEvent :SB020
+[2018/9/3 10:55:59] UnInitGameZone : True
+[2018/9/3 10:55:59] SetOCStatus(False) :False
+[2018/9/3 10:55:59] App_Deactivated
+[2018/9/3 14:17:24] AccelBall Start 
+[2018/9/3 14:17:24] IsXiaoXinPC   : True
+[2018/9/3 14:17:24] SaveConfigIml From Registry Key :TopMostModel  Value : 1
+[2018/9/3 14:17:24] BigData-> clickEvent :SB011
+[2018/9/3 14:17:24] SaveConfigIml From Registry Key :TieModel  Value : 1
+[2018/9/3 14:17:24] BigData-> clickEvent :SB012
+[2018/9/3 14:17:33] GetGameNoDisStatus :False
+[2018/9/3 14:17:34] BigData-> clickEvent :SB013
+[2018/9/3 14:17:34] BigData-> clickEvent :SB020
+[2018/9/3 14:17:34] UnInitGameZone : True
+[2018/9/3 14:17:34] SetOCStatus(False) :False
+[2018/9/3 14:17:34] App_Deactivated
