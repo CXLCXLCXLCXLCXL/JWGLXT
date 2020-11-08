@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 2019-11-13 23:59:38 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="com.qdu.pojo.Student" table="student">
+        <id name="id" type="string">
+            <column name="id" length="12" />
+            <generator class="assigned" />
+        </id>
+        <property name="name" type="string">
+            <column name="name" length="20" />
+        </property>
+        <property name="password" type="string">
+            <column name="password" length="20"/>
+        </property>
+        <property name="gender" type="string">
+            <column name="gender" length="3" />
+        </property>
+        <property name="batch" type="string">
+            <column name="batch" length="20" />
+        </property>
+        <property name="nativePlace" type="string">
+            <column name="nativePlace" length="30" />
+        </property>
+        <property name="politics" type="string">
+            <column name="politics" length="20" />
+        </property>
+        <property name="photo" type="string">
+            <column name="photo" length="20" />
+        </property>
+    </class>
+</hibernate-mapping>

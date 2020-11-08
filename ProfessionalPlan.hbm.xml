@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 2019-11-13 23:59:38 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+  <class catalog="education" name="com.qdu.pojo.ProfessionalPlan" optimistic-lock="version" table="professionalplan">
+    <id name="id" type="java.lang.Integer">
+      <column name="id"/>
+      <generator class="identity"/>
+    </id>
+    <property name="professional" type="string">
+      <column length="30" name="professional"/>
+    </property>
+    <property name="course" type="string">
+      <column length="30" name="course"/>
+    </property>
+    <property name="year" type="java.lang.Integer">
+      <column name="year"/>
+    </property>
+    <property name="term" type="string">
+      <column length="3" name="term"/>
+    </property>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 2019-12-12 14:46:04 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="com.qdu.pojo.Score" table="score" catalog="education" optimistic-lock="version">
+        <composite-id name="id" class="com.qdu.pojo.ScoreId">
+            <key-property name="stuid" type="string">
+                <column name="stuid" length="12" />
+            </key-property>
+            <key-property name="course" type="string">
+                <column name="course" length="30" />
+            </key-property>
+        </composite-id>
+        <property name="score" type="java.lang.Integer">
+            <column name="score" />
+        </property>
+        <property name="pass" type="string">
+            <column name="pass" length="3" />
+        </property>
+    </class>
+</hibernate-mapping>
