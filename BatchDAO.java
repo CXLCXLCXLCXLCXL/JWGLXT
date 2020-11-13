@@ -12,7 +12,7 @@ public interface BatchDAO {
     void update(Batch batch);
     //查
     Batch getOneByName(String name);
-    //查所有
+    //查找所有
     List<Batch> getAll();
     
     List<Batch> getListByPageNumberAndSize(int pageNumber, int pageSize);
