@@ -4,7 +4,7 @@ import com.qdu.pojo.Student;
 import java.util.List;
 
 /**
- * StudentDAO接口，定义对Student表的CRUD（增删改查）操作
+ * StudentDAO接口，定义对Student表的CRUD（增删改查）操作。
  */
 public interface StudentDAO {
     //传入一个包含新学生信息的Student对象，插入新学生到数据库
