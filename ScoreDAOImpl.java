@@ -10,6 +10,7 @@ import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
+/*实现*/
 @Repository
 public class ScoreDAOImpl implements ScoreDAO{
 
