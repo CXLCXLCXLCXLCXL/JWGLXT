@@ -18,7 +18,7 @@ public interface ScoreDAO {
     public List getStudentListToAddScore(String id,String batch,String course) ;
     public List getScoreListToTeacher(String id,String batch,String course);
     public List getStudentListToExel(String id,String batch,String course);
-    //查所有
+    //查找所有
     List<Score> getAll();
     
     List<Score> getListByPageNumberAndSize(int pageNumber, int pageSize);
