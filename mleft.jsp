@@ -1,3 +1,4 @@
+<%@page import="com.qdu.pojo.Student"%>
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
     String path = request.getContextPath();
@@ -16,9 +17,9 @@
                 background-repeat:repeat-y;
                 background-position:right;
             }
-
         </style>
     </head>
+<% Boolean asc=true;%>
     <body>
         <div id="nav_container">
             <table border="0" width="160" height="638" bordercolor="#FFF" bgcolor="#FFFFFF" cellspacing="0">
@@ -26,10 +27,10 @@
                     <td valign="top">
                         <ul>
                             <li><a href="welcom.jsp" target="mainFrame">欢迎页面</a></li>
-                            <li><a href="<%=path%>/accountmanageofteacher" target="mainFrame">个人信息</a></li>
-                            <li><a href="<%=path%>/modifyTeacherPwd.do" target="mainFrame">修改密码</a></li>
-                            <li><a href="<%=path%>/batchandcourse" target="mainFrame">查看所教课程与班级</a></li>
-                            <li><a href="<%=path%>/chengjiweihu" target="mainFrame">成绩维护</a></li>
+                            <li><a href="<%=path%>/accountmanage" target="mainFrame">个人信息</a></li>
+                            <li><a href="<%=path%>/modifyStudentPwd.do" target="mainFrame">修改密码</a></li>
+                            <li><a href="<%=path%>/scoreQuery2?id=${student.id}&&asc=<%=asc%>" target="mainFrame">成绩和课程</a></li>
+                            <li><a href="<%=path%>/studentProfessionalPlanQuery?name=${student.batch}" target="mainFrame">查看专业计划</a></li>
                             <li><a href="<%=path%>/exit" target="_parent" onclick="javascript: return confirm('确认退出用户吗？');">退出用户</a></li>
                         </ul>
                     </td>

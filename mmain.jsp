@@ -9,6 +9,6 @@
     </head>
     <body style="text-align:center">
         <br><br><br><br><br><br><br><br><br>
-        <b style=" font-size:50px;">欢迎您!     </b><b style=" font-size:50px; color: #0283c5">老师</b>
+        <b style=" font-size:50px;">欢迎您!     </b><b style=" font-size:50px; color: #0283c5">学生</b>
     </body>
 </html>
