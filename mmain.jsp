@@ -4,11 +4,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>教务管理系统</title>
+        <title>在线考试系统</title>
         <link href="../css/style.css" rel="stylesheet" type="text/css" />
     </head>
     <body style="text-align:center">
         <br><br><br><br><br><br><br><br><br>
-        <b style=" font-size:50px;">欢迎您!     </b><b style=" font-size:50px; color: #0283c5">学生</b>
+        <b style=" font-size:50px;">欢迎您!     </b><b style=" font-size:50px; color: #0283c5">管理员</b>
     </body>
 </html>

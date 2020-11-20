@@ -13,7 +13,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <link href="../css/style.css" rel="stylesheet" type="text/css" />
 <style>
 #welcome{
-    background-color: #ffffff;
+	background-color: white;
 	color:#5084BB;
 	font-size:16px;
 	line-height:19px;
@@ -21,12 +21,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 }
 </style>
 </head>
-
 <body>
     <div id="welcome"  style="width: 100%; height:120px">
         <img src="../img/logo.jpg" style=" width: 12%; height: 100%; float: left"/>
         <img src="../img/3.png" style=" width: 70%; height: 100%; float: left"/>
-        
     </div>
     <hr size="7px" noshade=true/>
 </body>
