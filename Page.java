@@ -1,5 +1,5 @@
 package com.qdu.controller;
-
+/**/
 public class Page {
     private int currentPage=1;    //当前页数
     private int totalPages;       //总页数
