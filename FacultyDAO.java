@@ -1,19 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.qdu.dao;
 
 import com.qdu.pojo.Faculty;
 import java.util.List;
 
-/**
- *
- * @author master
- */
 public interface FacultyDAO {
-        //传入一个包含新学生信息的Faculty对象，插入新学生到数据库
+        // 传入一个包含新学生信息的Faculty对象，插入新学生到数据库
     void insert(Faculty faculty);
 
     //传入一个包含更新后的学生信息的Faculty对象，更新学生信息到数据库
