@@ -1,5 +1,5 @@
 package com.qdu.pojo;
-
+/**/
 public class CoursePlan  implements java.io.Serializable {
      private Integer id;
      private String courseid;
