@@ -1,5 +1,5 @@
 package com.qdu.pojo;
-
+/**/
 public class Batch  implements java.io.Serializable {
      private String name;
      private Integer studentCount;
