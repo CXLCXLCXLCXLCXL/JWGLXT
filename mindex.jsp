@@ -15,12 +15,12 @@
     </head>
     <frameset rows="130,*" cols="*" frameborder="no" border="0"
               framespacing="0">
-        <frame src="manager/mtop.jsp" name="topFrame" scrolling="no"
+        <frame src="student/mtop.jsp" name="topFrame" scrolling="no"
                noresize="noresize" id="topFrame" title="topFrame" />
         <frameset cols="200,*" frameborder="no" border="0" framespacing="0">
-            <frame src="manager/mleft.jsp" name="leftFrame"
+            <frame src="student/mleft.jsp" name="leftFrame"
                    scrolling="no" noresize="noresize" id="leftFrame" title="leftFrame" />
-            <frame src="manager/mmain.jsp" name="mainFrame"
+            <frame src="student/mmain.jsp" name="mainFrame"
                    id="mainFrame" title="mainFrame" />
         </frameset>
     </frameset>

@@ -20,15 +20,15 @@
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==1&&sc.term=='秋'}">
+                    <c:if test="${sc[3]==1&&sc[4]=='秋'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
                     </c:if>    
 		</c:forEach>
@@ -37,120 +37,120 @@
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==1&&sc.term=='春'}">
+                     <c:if test="${sc[3]==1&&sc[4]=='春'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
+                    </c:if>     
 		</c:forEach>
 	</table>
         <h3 align="center" class="subTitle">第2学年 秋</h3>
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==2&&sc.term=='秋'}">
+                    <c:if test="${sc[3]==2&&sc[4]=='秋'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
+                    </c:if>     
 		</c:forEach>
 	</table>
         <h3 align="center" class="subTitle">第2学年 春</h3>
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
-		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==2&&sc.term=='春'}">
+                <c:forEach var="sc" items="${professionalPlan}" varStatus="id">
+		<c:if test="${sc[3]==2&&sc[4]=='春'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
-		</c:forEach>
+                </c:if> 
+                </c:forEach>
 	</table>
         <h3 align="center" class="subTitle">第3学年 秋</h3>
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==3&&sc.term=='秋'}">
+		<c:if test="${sc[3]==3&&sc[4]=='秋'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
+                </c:if>    
 		</c:forEach>
 	</table>
         <h3 align="center" class="subTitle">第3学年 春</h3>
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==3&&sc.term=='春'}">
+                <c:if test="${sc[3]==3&&sc[4]=='春'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
+                </c:if>     
 		</c:forEach>
 	</table>
         <h3 align="center" class="subTitle">第4学年 秋</h3>
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+			<td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==4&&sc.term=='秋'}">
+                <c:if test="${sc[3]==4&&sc[4]=='秋'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
+                </c:if>     
 		</c:forEach>
 	</table>
         <h3 align="center" class="subTitle">第4学年 春</h3>
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table3">
 		<tr align="center">
 			<td width="100">课程</td>
-			<td width="94">修改操作</td>
-			<td width="116">删除操作</td>
+                        <td width="116">考查方式</td>
+			<td width="94">学分</td>
 		</tr>
 		<c:forEach var="sc" items="${professionalPlan}" varStatus="id">
-                    <c:if test="${sc.year==4&&sc.term=='春'}">
+                <c:if test="${sc[3]==4&&sc[4]=='春'}"> 
 			<tr align="center">
-				<td>${sc.course}</td>
-				<td><a href="<%=path%>/professionalPlanModify.do?id=${sc.id}"  target="_self">修改</a></td>
-				<td><a href="<%=path%>/professionalPlanDelete?id=${sc.id}"  target="_self">删除</a></td>
+				<td>${sc[0]}</td>
+				<td>${sc[1]}</td>
+				<td>${sc[2]}</td>
 			</tr>
-                    </c:if>    
+                </c:if>     
 		</c:forEach>
 	</table>
-</body>
+</body> 
 </html>
