@@ -32,10 +32,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/* */
+
 @Controller
 public class AdminController {
-
+    /*自动注入*/
     @Autowired
     private StudentService studentService;
     @Autowired
@@ -54,6 +54,7 @@ public class AdminController {
     private ProfessionalPlanService professionalPlanService;
     Page p=new Page();
     Page p2=new Page();
+    
     @RequestMapping({"/studentManage"})
     public String studentManage(Model model,String page) {
         int page1=Integer.valueOf(page);
@@ -209,6 +210,7 @@ public class AdminController {
     public String teacherDelete(Model model, String id) {
         try {
             teacherService.deleteTeacher(id);
+            
         } catch (Exception e) {
             System.err.println("删除失败！");
             return "fail";
@@ -382,10 +384,10 @@ public class AdminController {
         try {
             facultyService.updateFaculty(faculty);
         } catch (Exception e) {
-            System.err.println("更新失败！");
+            System.err.println("更新失败！！！");
             return "fail";
         }
-        System.out.println("更新成功！");
+        System.out.println("更新成功！！！");
         return "forward:facultyManage";
     }
 
