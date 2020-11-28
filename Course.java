@@ -1,5 +1,5 @@
 package com.qdu.pojo;
-
+/**/
 public class Course  implements java.io.Serializable {
      private String id;
      private String name;
@@ -61,6 +61,7 @@ public class Course  implements java.io.Serializable {
     public void setWeight(Integer weight) {
         this.weight = weight;
     }
+    
     public String getRemark() {
         return this.remark;
     }
