@@ -3,16 +3,15 @@ package com.qdu.service;
 import com.qdu.dao.ProfessionalPlanDAO;
 import com.qdu.dao.impl.ProfessionalPlanDAOImpl;
 import com.qdu.pojo.ProfessionalPlan;
-import java.util.List;
 import javax.annotation.Resource; 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
+import java.util.List;
 
 @Service
 public class ProfessionalPlanService{
- 
     @Resource
     private ProfessionalPlanDAOImpl professionalPlandao;
     
